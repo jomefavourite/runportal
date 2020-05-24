@@ -1,5 +1,5 @@
 # REDEEMER'S UNIVERSITY STUDENT PORTAL.
-![Design preview](Screenshot(115).png)
+![Design preview](designpreview.png)
 
 Made my school student portal. Which is responsive unlike the one which is being used.
 
